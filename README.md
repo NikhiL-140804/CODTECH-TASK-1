@@ -21,4 +21,8 @@ To ensure real-world usability, I placed each logo variant on both white and dar
 
 Throughout this task, I learned how to think like a brand designer — focusing not just on visual appeal but also on flexibility, scalability, and clarity. I also practiced working with Figma's shape tools, alignment guides, color swatches, and typography controls. This task helped me understand how important spacing, consistency, and simplicity are in logo design. Overall, this assignment sharpened my visual design skills, improved my comfort with vector tools, and gave me the confidence to create real-world branding assets in a structured design environment.
 
-https://www.figma.com/design/sdXGa5702bORdN84zxOgfz/CodTech_LogoTask?node-id=0-1&t=RmPqSuzXaHEhPtYX-1
+#OUTPUT:
+
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/838e62dc-0186-491c-a972-25e5d2dc68c8" />
+
+LINK: https://www.figma.com/design/sdXGa5702bORdN84zxOgfz/CodTech_LogoTask?node-id=0-1&t=RmPqSuzXaHEhPtYX-1
